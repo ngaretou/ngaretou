@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Working on apps that help people connect with the Bible
+- Member of SIM
+- More at http://coreyandkatie.org 
+
 <!--
 **ngaretou/ngaretou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
